@@ -10,3 +10,4 @@ These icons are to be set up with a tool such as OblyTile. All icons are 512x512
 
 * Python (e.g. Command Line)
 * Haskell (e.g. GHCi)
+* WAMP
